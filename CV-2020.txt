@@ -1,0 +1,5 @@
+- Built POC app by analyzing the market and its needs
+- Improved overall app consistency and reliability by implementing unit and integration tests
+- Boosted website performance and user experience by using redis cache
+- Shortened API response time by refactoring ORM usage and optimizing database calls by batching them 
+- Organised tech team work by designing Kanban boards
