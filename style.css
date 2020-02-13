@@ -98,12 +98,14 @@ body {
   font-size: 15px;
   color: #222;
   text-align: justify;
-  margin: 0 !important;
+  margin: 0 auto 0 auto !important;
   padding: 0 !important;
 }
 
 body {
   min-height: 100%;
+  max-width: 21cm;
+  margin: auto;
 }
 
 .clear {
