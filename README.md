@@ -1,4 +1,4 @@
-## My online resume
+# My online resume
 
 My resume done in html / css.
 
